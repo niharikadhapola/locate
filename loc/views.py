@@ -16,7 +16,7 @@ def home(request):
         'country': geodata['country_name'],
         'latitude': geodata['latitude'],
         'longitude': geodata['longitude'],
-        'api_key': 'yourkey'  # Don't do this! This is just an example. Secure your keys properly.
+        'api_key': 'yourkey'  
 
 
 
